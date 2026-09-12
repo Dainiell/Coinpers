@@ -20,6 +20,11 @@ Coinpers is a mobile application built with Flutter and Dart, designed to help i
 5. **Clean Up Entries**: Swipe left on any item to delete a mistaken or duplicate entry.
 6. **Stay on Budget**: Check your running total anytime to stay aware of your spending habits.
 
+
+## App Icon
+<img src="assets/ICON.png" width="200" alt="Coinpers Icon">
+
+
 ## Tech Stack
 
 <p align="left">

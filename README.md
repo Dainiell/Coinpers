@@ -1,6 +1,6 @@
 # Coinpers 
 
-Coinpers is a mobile application built with Flutter and Dart, designed to help individuals log daily expenses, categorize spending, and keep a clear, offline-first record of where their money goes.
+Coinpers is a native iOS application built with Swift and SwiftUI, designed to help individuals log daily expenses, categorize spending, and keep a clear, offline-first record of where their money goes using SQLite for seamless local data storage.
 
 ## Core Features
 
